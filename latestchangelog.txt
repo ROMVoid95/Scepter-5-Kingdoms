@@ -1,0 +1,16 @@
+======================================================
+1.0.1 --> 1.1.0
+======================================================
+Added:
+- Better Foliage
+- BiblioCraft
+- Hwyla
+- MPUtils
+- MPUtils Basic Tools
+- Mowzie's Mobs
+- Potion Core
+- Quality Tools
+- Serene Seasons
+- Wawla - What Are We Looking At
+Removed:
+- Dynamic Trees
