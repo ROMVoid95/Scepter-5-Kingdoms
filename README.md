@@ -1,7 +1,7 @@
 # Scepter-5-Kingdoms
 Scepter: 5 Kingdoms Issue Tacking
 
-##Modlist for v1.0.2
+## Modlist for v1.0.2
 
 <ul>
 <li><a href="https://minecraft.curseforge.com/mc-mods/231951">Immersive Engineering (by BluSunrize)</a></li>
