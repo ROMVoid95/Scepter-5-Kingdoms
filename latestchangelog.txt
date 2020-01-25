@@ -25,6 +25,7 @@ Added:
 - Sound Filters
 - Thaumic Additions: Reconstructed
 - Thaumic JEI
+- VanillaFix
 Updated:
 - JourneyMap (5.5.6 --> 5.5.7):
 Removed:
