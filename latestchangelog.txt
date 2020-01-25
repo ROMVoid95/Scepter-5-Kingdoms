@@ -33,3 +33,4 @@ Removed:
 - Davincis Vessels
 - Immersive Engineering
 - MovingWorld
+- Better Foliage
