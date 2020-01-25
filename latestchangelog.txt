@@ -1,16 +1,35 @@
-======================================================
-1.0.1 --> 1.1.0
-======================================================
+===================
+1.0.2 --> b1.1.0
+===================
 Added:
-- Better Foliage
+- B.A.S.E
 - BiblioCraft
-- Hwyla
-- MPUtils
-- MPUtils Basic Tools
+- Custom Loading Screen
+- Dark Roleplay Core
+- Default Options
+- Hammer (Lib) Core
+- Iron Chests
+- Iron Furnaces
+- JEI Integration
+- Main Menu Scale
+- Minecraft Comes Alive (MCA)
 - Mowzie's Mobs
+- Named Areas
 - Potion Core
+- Primal Tech
 - Quality Tools
+- Reborn Core
+- Rustic
+- Rustic Thaumaturgy
 - Serene Seasons
-- Wawla - What Are We Looking At
+- Sound Filters
+- Thaumic Additions: Reconstructed
+- Thaumic JEI
+Updated:
+- JourneyMap (5.5.6 --> 5.5.7):
 Removed:
-- Dynamic Trees
+- Armourer's Workshop
+- BetterPortals
+- Davincis Vessels
+- Immersive Engineering
+- MovingWorld
