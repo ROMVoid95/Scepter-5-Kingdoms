@@ -1,37 +1,18 @@
-===================
-1.0.2 --> b1.1.0
-===================
+=================================
+b1.1.0 --> b1.2.0
+=================================
 Added:
-- B.A.S.E
-- BiblioCraft
-- Custom Loading Screen
-- Dark Roleplay Core
-- Default Options
-- Hammer (Lib) Core
-- Iron Chests
-- Iron Furnaces
-- JEI Integration
-- Main Menu Scale
-- Minecraft Comes Alive (MCA)
-- Mowzie's Mobs
-- Named Areas
-- Potion Core
-- Primal Tech
-- Quality Tools
-- Reborn Core
-- Rustic
-- Rustic Thaumaturgy
-- Serene Seasons
-- Sound Filters
-- Thaumic Additions: Reconstructed
-- Thaumic JEI
-- VanillaFix
-Updated:
-- JourneyMap (5.5.6 --> 5.5.7):
-Removed:
+- Antique Atlas
 - Armourer's Workshop
-- BetterPortals
-- Davincis Vessels
-- Immersive Engineering
-- MovingWorld
-- Better Foliage
+- Custom Backgrounds
+- Dark Roleplay Medieval
+- Dynamic Lights
+- Inventory Tweaks
+- Login Shield
+- ReAuth
+Updated:
+	HammerCore (2.0.6.7 --> 2.0.6.8)
+	RandomPatches (1.20.1.0 --> 1.21.0.0)
+Removed:
+- JourneyMap
+- Surge
