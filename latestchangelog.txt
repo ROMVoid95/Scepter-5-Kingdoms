@@ -1,6 +1,32 @@
-=================================
-b1.2.0 --> b1.2.1
-=================================
+===================
+b1.2.1 -->  b1.3.0
+===================
+Changed:
+ -Added Custom Items for Crafting
+ -Fixed AW2 NPC crafting
+ -Added Infusing recipe for Primodial Pearl
+Added:
+ -Chisels & Bits
+ -ContentTweaker
+ -Crimson Revelations
+ -Crimson Warfare
+ -Into The Maelstrom
+ -MK: Ultra
+ -MK: Ultra Compatibility
+ -MTLib
+ -ModTweaker
+ -TargetingAPI
+ -Tetra
+ -Thaumcraft 6 Aspects for JEI
+ -Thaumic Brewing
+ -Thaumic Inventory Scanning (Thaumcraft Addon)
+ -Thaumic Periphery
 Updated:
-HammerCore (2.0.6.8 --> 2.0.6.9)
-Ice and Fire (1.8.3 --> 1.8.4)
+ -Corail Tombstone
+ -Hammer (Lib) Core
+ -Thaumic Additions: Reconstructed
+ -Wawla
+Removed:
+ -Custom Loading Screen
+ -Litematica
+ -Mowzie's Mobs
