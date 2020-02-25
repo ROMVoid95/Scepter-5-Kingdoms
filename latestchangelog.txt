@@ -1,32 +1,36 @@
 ===================
-b1.2.1 -->  b1.3.0
+b1.3.0 -->  b1.3.1
 ===================
 Changed:
- -Added Custom Items for Crafting
- -Fixed AW2 NPC crafting
- -Added Infusing recipe for Primodial Pearl
+ -Millénaire Villages worlgen disabled
+ -MCA Child per Village reduced to 6
+ -MKUltra Armor Restrictions Bypassed
+Disabled:
+ -Ancient Warefare 2
 Added:
- -Chisels & Bits
- -ContentTweaker
- -Crimson Revelations
- -Crimson Warfare
- -Into The Maelstrom
- -MK: Ultra
- -MK: Ultra Compatibility
- -MTLib
- -ModTweaker
- -TargetingAPI
- -Tetra
- -Thaumcraft 6 Aspects for JEI
- -Thaumic Brewing
- -Thaumic Inventory Scanning (Thaumcraft Addon)
- -Thaumic Periphery
+ -BetterWithMods
+ -CustomNPC's
+ -HorsePower
+ -Millénaire
+ -Nomisma
+ -RPG-Hud
+ -Better With Mods
+ -Better With Addons
+ -AstikorCarts [Horse Carts]
+ -GameStages
+ -ItemStages
+ -DimensionStages
+ -RecipeStages
 Updated:
- -Corail Tombstone
- -Hammer (Lib) Core
- -Thaumic Additions: Reconstructed
- -Wawla
+ -Corail Tombstone 3.6.7 -> 3.6.8
+ -StorageDrawers 5.4.0 -> 5.4.1
 Removed:
- -Custom Loading Screen
- -Litematica
- -Mowzie's Mobs
+ -Tetra
+ -Kiwi
+ -ZenTweaker
+ -NamedAreas
+ -RealisticTorches
+ -CrimsonWarfare
+ -IronChests
+ -IronFurnaces
+ -DynamicSurrounds
