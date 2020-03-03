@@ -1,1 +1,1 @@
-
+Disable GriefPrevention chest autoclaim
